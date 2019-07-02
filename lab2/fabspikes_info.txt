@@ -1,0 +1,32 @@
+Memory Length	4000
+Trigger Level	9.70E+02
+Source	CH1
+Probe	20.0X
+Vertical Units	V
+Vertical Scale	1.00E+00
+Vertical Position	1.00E+00
+Horizontal Units	S
+Horizontal Scale	5.00E-01
+Horizontal Position	1.28E+00
+Horizontal Mode	Main
+Sampling Period	2.00E-03
+Firmware	V1.14
+Time
+Mode	Detail
+Waveform Data	
+Memory Length	4000
+Trigger Level	9.70E+02
+Source	CH2
+Probe	1.0X
+Vertical Units	V
+Vertical Scale	5.00E-01
+Vertical Position	-1.68E+00
+Horizontal Units	S
+Horizontal Scale	5.00E-01
+Horizontal Position	1.28E+00
+Horizontal Mode	Main
+Sampling Period	2.00E-03
+Firmware	V1.14
+Time	 
+Mode	Detail
+Waveform Data	
