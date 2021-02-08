@@ -4,7 +4,7 @@ In this report, the theory of fine and hyperfine structure of atomic energy leve
 is developed.
 
 We employed Doppler-Free spectroscopy methods to resolve the absorption
-spectra of $\text{Rb}^{87}$ and $\text{Rb}^{85}$
+spectra of $^{87}Rb$ and $^{85}Rb$
 which are typically obscured by doppler broadening effects.
 
 The central peak frequency is observed by fitting our derived model
