@@ -1,4 +1,4 @@
-# Saturation_Spectroscopy
+# Saturation Spectroscopy
 
 In this report, the theory of fine and hyperfine structure of atomic energy levels
 is developed, along with absorption spectrum analysis of Rubidium.
